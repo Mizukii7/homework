@@ -11,5 +11,6 @@ print("Sum:", add(x,y)
 def muliply(a, b):
 return a*b
 
-
+def subtract(a, b):
+return a - b
 
